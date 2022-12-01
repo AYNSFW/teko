@@ -1,7 +1,6 @@
 'use client';
 
 import Link from 'next/link';
-
 import { use } from 'react';
 
 import { Navbar, Container, Nav } from 'react-bootstrap';
